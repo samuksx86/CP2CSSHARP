@@ -1,0 +1,17 @@
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\bin\Debug\net9.0\RestauranteData.deps.json
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\bin\Debug\net9.0\RestauranteData.runtimeconfig.json
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\bin\Debug\net9.0\RestauranteData.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\bin\Debug\net9.0\RestauranteData.pdb
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\bin\Debug\net9.0\RestauranteModel.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\bin\Debug\net9.0\RestauranteModel.pdb
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\Restaura.5DABE02F.Up2Date
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\refint\RestauranteData.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.pdb
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\RestauranteData.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteData\obj\Debug\net9.0\ref\RestauranteData.dll

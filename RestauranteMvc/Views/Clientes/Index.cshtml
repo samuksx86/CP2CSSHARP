@@ -1,0 +1,41 @@
+@model List<RestauranteModel.Cliente>
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>Clientes</h2>
+    <a href="/Clientes/Create" class="btn btn-primary">Novo Cliente</a>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Email</th>
+                    <th>Telefone</th>
+                    <th>Endereço</th>
+                    <th style="width: 150px;">Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cliente in Model)
+                {
+                    <tr>
+                        <td>@cliente.Nome</td>
+                        <td>@cliente.Email</td>
+                        <td>@cliente.Telefone</td>
+                        <td>@cliente.Endereco</td>
+                        <td>
+                            <a href="/Clientes/Edit/@cliente.Id" class="btn btn-sm btn-warning">Editar</a>
+                            <a href="/Clientes/Delete/@cliente.Id" class="btn btn-sm btn-danger"
+                               onclick="return confirm('Deseja realmente excluir?')">Excluir</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

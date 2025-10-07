@@ -1,0 +1,52 @@
+@model List<RestauranteModel.Produto>
+@{
+    ViewData["Title"] = "Produtos";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>Produtos</h2>
+    <a href="/Produtos/Create" class="btn btn-primary">Novo Produto</a>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Descrição</th>
+                    <th>Categoria</th>
+                    <th>Preço</th>
+                    <th>Disponível</th>
+                    <th style="width: 150px;">Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var produto in Model)
+                {
+                    <tr>
+                        <td>@produto.Nome</td>
+                        <td>@produto.Descricao</td>
+                        <td>@produto.Categoria</td>
+                        <td>R$ @produto.Preco.ToString("F2")</td>
+                        <td>
+                            @if (produto.Disponivel)
+                            {
+                                <span class="badge bg-success">Sim</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">Não</span>
+                            }
+                        </td>
+                        <td>
+                            <a href="/Produtos/Edit/@produto.Id" class="btn btn-sm btn-warning">Editar</a>
+                            <a href="/Produtos/Delete/@produto.Id" class="btn btn-sm btn-danger"
+                               onclick="return confirm('Deseja realmente excluir?')">Excluir</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

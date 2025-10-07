@@ -1,0 +1,17 @@
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\bin\Debug\net9.0\RestauranteBusiness.deps.json
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\bin\Debug\net9.0\RestauranteBusiness.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\bin\Debug\net9.0\RestauranteBusiness.pdb
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\bin\Debug\net9.0\RestauranteData.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\bin\Debug\net9.0\RestauranteModel.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\bin\Debug\net9.0\RestauranteModel.pdb
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\bin\Debug\net9.0\RestauranteData.pdb
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\RestauranteBusiness.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\RestauranteBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\RestauranteBusiness.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\RestauranteBusiness.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\RestauranteBusiness.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\Restaura.52901779.Up2Date
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\RestauranteBusiness.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\refint\RestauranteBusiness.dll
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\RestauranteBusiness.pdb
+C:\Users\labsfiap\Desktop\rm551717_EnriccoRossi_RM99134_SamuelRamos\RestauranteDelivery\RestauranteBusiness\obj\Debug\net9.0\ref\RestauranteBusiness.dll
