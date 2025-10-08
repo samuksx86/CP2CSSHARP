@@ -441,8 +441,6 @@ dotnet ef database update --startup-project ../RestauranteApi
 - Verifique se a API está configurada com CORS
 - Confirme se a URL da API no MVC está correta
 
-## 📞 Suporte
-
 Em caso de dúvidas, entre em contato com os desenvolvedores:
 - Enricco Rossi - RM551717
 - Samuel Ramos - RM99134
